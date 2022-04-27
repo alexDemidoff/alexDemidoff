@@ -1,11 +1,10 @@
 ## Alex Demidov
 Hello World! :earth_asia:
+I'm Alex and I want to be a Sofware Engineer. I am passionate about solving problems with technology and creating different solutions.
 
-- 👋 Hi, I’m @alexDemidoff
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎭 I play as an actor in theater
+- 🎞️ I like to watch a good movie
+- 🌱 I’m currently learning Java
 
 <!---
 alexDemidoff/alexDemidoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

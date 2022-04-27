@@ -1,6 +1,7 @@
 ## Alex Demidov
 
 Hello World! :earth_asia:
+
 I'm Alex and I want to be a Sofware Engineer. I am passionate about solving problems with technology and creating different solutions.
 
 - 🎭 I play as an actor in theater

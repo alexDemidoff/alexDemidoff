@@ -6,7 +6,7 @@ I'm Alex and I want to be a Sofware Engineer. I am passionate about solving prob
 
 - 🎭 I play as an actor in theater
 - 🎞️ I like to watch a good movie
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, JavaScript abd HTML&CSS
 
 <!---
 alexDemidoff/alexDemidoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
